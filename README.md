@@ -1,3 +1,5 @@
+<img width="1079" height="606" alt="Dashbord Power BI screen shot" src="https://github.com/user-attachments/assets/e6f643c9-4676-46f1-bfa9-a9b658a2a53b" />
+
 # iPhone Sales Dashboard (Power BI)
 
 An interactive Power BI dashboard built entirely through the user interface (no DAX),
